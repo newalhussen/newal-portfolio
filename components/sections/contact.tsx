@@ -10,10 +10,10 @@ export function Contact() {
     <AnimatedSection id="contact" className="section-padding pb-24 sm:pb-28">
       <div className="section-container">
         <SectionHeading
-          label="Contact"
-          title="Let's work together"
-          description="Open to international opportunities. Reach out to discuss your next project or role."
-        />
+  label="Contact"
+  title="Let's connect"
+  description="Interested in building impactful software together? Feel free to reach out about software engineering opportunities, collaborations, or exciting projects."
+/>
 
         <GlassCard className="max-w-lg">
           <address className="flex flex-col gap-4 not-italic">
