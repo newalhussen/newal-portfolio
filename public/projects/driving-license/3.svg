@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f1729"/>
+      <stop offset="100%" style="stop-color:#1a2744"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect x="40" y="40" width="720" height="420" rx="12" fill="#1e293b" stroke="#22d3ee" stroke-opacity="0.2" stroke-width="1"/>
+  <text x="400" y="230" text-anchor="middle" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="18">Driving Licence Management</text>
+  <text x="400" y="270" text-anchor="middle" fill="#22d3ee" font-family="system-ui,sans-serif" font-size="14" opacity="0.7">Screenshot 3  Replace with actual image</text>
+</svg>
